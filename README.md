@@ -49,6 +49,6 @@ There's a public build of DataCleaner that can be found on Travis CI:
 
 https://travis-ci.org/datacleaner/DataCleaner
 
-## License
+## License3.0
 
 Licensed under the Lesser General Public License, see http://www.gnu.org/licenses/lgpl.txt
